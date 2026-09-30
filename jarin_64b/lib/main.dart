@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
           style: GoogleFonts.lobster(
             textStyle: const TextStyle(
               fontSize: 30,
-              color: Color.fromRGBO(255, 164, 103, 1.0), // কালার কোড ঠিক করা হয়েছে
+              color: Color.fromRGBO(255, 164, 103, 1.0), 
             ),
           ),
         ),
